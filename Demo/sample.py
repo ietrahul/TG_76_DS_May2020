@@ -1,1 +1,1 @@
-prince("Hello world!")
+print("Hello world!")
